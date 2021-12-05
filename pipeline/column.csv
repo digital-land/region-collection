@@ -1,1 +1,4 @@
 pipeline,resource,pattern,value
+region,,WKT,geometry
+region,,rgn15cd,region
+region,,rgn15nm,name
